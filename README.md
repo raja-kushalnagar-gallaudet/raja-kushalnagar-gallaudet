@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @raja-kushalnagar-gallaudet
-- 👀 I’m interested in Accessible Computing
-- 📫 How to reach me -- raja.kushalnagar@gallaudet.edu
-
 # Raja S. Kushalnagar
 
 **Professor | Accessibility Researcher | Information Technology & Human-Centered Computing**
@@ -72,13 +68,7 @@ My research focuses on accessibility, assistive technology, and inclusive comput
 
 ## 🎯 Mentorship & Awards
 
-I'm passionate about mentoring the next generation of researchers and technologists. I've successfully advised multiple **NSF Graduate Research Fellowship Program (GRFP)** recipients, including:
-
-- **Larwan Berke** (2017) ✓
-- **Matthew Seita** (2017) ✓  
-- **James Waller** (2016) ✓
-
-And provided guidance to many other exceptional students pursuing advanced degrees in computing and accessibility.
+I'm passionate about mentoring the next generation of researchers and technologists. I've successfully advised multiple **NSF Graduate Research Fellowship Program (GRFP)** recipients and provided guidance to many exceptional students pursuing advanced degrees in computing and accessibility.
 
 ---
 
@@ -98,9 +88,9 @@ I actively contribute to the academic and professional community through:
 I'm always interested in collaboration opportunities, research partnerships, and discussions about accessibility, technology, and inclusive design.
 
 - 🏛️ **Institution**: Gallaudet University, Science, Technology, Accessibility, Mathematics and Public Health
-- 💼 **LinkedIn**: [Connect on LinkedIn](https://linkedin.com/in/rajakushalnagar)
+- 💼 **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/in/rajakushalnagar/)
 - 📧 **Email**: [Contact through Gallaudet](https://www.gallaudet.edu/)
-- 🌐 **Research**: [Google Scholar](https://scholar.google.com/) | [ORCID](https://orcid.org/)
+- 🌐 **Research**: [Google Scholar](https://scholar.google.com/citations?user=2fs6tyAAAAAJ&hl=en) | [ORCID](https://orcid.org/0000-0002-0493-413X)
 
 ---
 
@@ -112,8 +102,3 @@ Technology should be **accessible by design, not as an afterthought**. My work s
 
 *"The power of the Web is in its universality. Access by everyone regardless of disability is an essential aspect."* – Tim Berners-Lee
 
-
-<!---
-raja-kushalnagar-gallaudet/raja-kushalnagar-gallaudet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
