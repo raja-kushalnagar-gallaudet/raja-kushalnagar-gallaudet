@@ -1,104 +1,53 @@
-# Raja S. Kushalnagar
+# Raja S. Kushalnagar, Ph.D., J.D.
 
-**Professor | Accessibility Researcher | Information Technology & Human-Centered Computing**
-
----
-
-## 🎓 Academic Profile
-
-I'm a Professor at **Gallaudet University**, where I direct the B.S. in Information Technology program and co-direct the M.S. and Ph.D. programs in Accessible Human-Centered Computing and Policy (AHCP). My work bridges technology, accessibility, law, and human-centered design.
-
-### Research Interests
-- **Accessibility & Inclusive Design** – Making technology work for everyone
-- **Human-Centered Computing** – Putting people at the center of technological innovation  
-- **Information Technology** – Practical applications that improve lives
-- **Accessibility Policy & Law** – Legal frameworks for digital accessibility
+**Professor & Program Director** | Gallaudet University | Washington, DC
 
 ---
 
-## 🏛️ Education
+## About
 
-| Degree | Field | Institution | Year |
-|--------|-------|-------------|------|
-| **Ph.D.** | Computer Science | University of Houston | 2010 |
-| **LL.M.** | Intellectual Property & Information Law | University of Houston | 2010 |
-| **J.D.** | Law *(cum laude)* | Texas Southern University | 2008 |
-| **M.S.** | Computer Science | Rochester Institute of Technology | 1999 |
-| **B.S.** | Applied Physics | Angelo State University | 1994 |
+Director of the B.S. in Information Technology program and Co-Director of the M.S. and Ph.D. programs in Accessible Human-Centered Computing (AHCC) at Gallaudet University. My work spans accessible computing research and accessibility/intellectual property law.
 
----
+I investigate information access disparities between hearing and deaf individuals, with particular focus on speech-to-text technologies such as enhanced captions and automatic subtitling. I also advocate for updates in accessibility and intellectual property law to incorporate advances in accessible computing.
 
-## 💼 Professional Experience
+## Research Interests
 
-### Gallaudet University, Washington, DC
-**Professor & Program Director** *(2020–Present)*
-- Director, B.S. in Information Technology Program
-- Co-Director, M.S. and Ph.D. in Accessible Human-Centered Computing and Policy
+- **Accessible Computing** — Captioning quality, real-time text communication, assistive technology design
+- **Inclusive Design** — Human-centered systems that serve all users, including deaf and hard-of-hearing communities
+- **Accessibility Law & Policy** — Legal frameworks for digital accessibility, intellectual property law intersections
 
-### Rochester Institute of Technology, Rochester, NY
-**Associate Professor & Program Director** *(2016–2020)*
-- Director, B.S. Information Technology Program
+## Education
 
-**Assistant Professor** *(2011–2016)*  
-**Instructor** *(2010–2011)*
-- Department of Information and Computing Studies
+| Degree | Field | Institution |
+|--------|-------|-------------|
+| Ph.D. | Computer Science | University of Houston, 2010 |
+| LL.M. | Intellectual Property & Information Law | University of Houston, 2010 |
+| J.D. | Law (*cum laude*) | Texas Southern University, 2008 |
+| M.S. | Computer Science | Rochester Institute of Technology, 1999 |
+| B.S. | Applied Physics | Angelo State University, 1994 |
 
----
+## Selected Projects
 
-## 🏆 Certifications
+| Repository | Description |
+|------------|-------------|
+| [asl-db](https://github.com/raja-kushalnagar-gallaudet/asl-db) | ASL database for accessibility research |
+| [Sign360](https://github.com/raja-kushalnagar-gallaudet/Sign360) | Sign language technology project |
+| [GallaudetFindShuttle](https://github.com/raja-kushalnagar-gallaudet/GallaudetFindShuttle) | Campus shuttle finder for Gallaudet University |
+| [Convo-Research-Development](https://github.com/raja-kushalnagar-gallaudet/Convo-Research-Development) | Research and development class projects |
 
-- **American Sign Language Proficiency Interview (ASLPI)**: 3+ *(2016)*
-- **Sign Language Proficiency Interview (SLPI)**: Advanced+ to Superior+ *(2013)*
-- **Certified Information Systems Security Professional (CISSP)** *(2001)*
+## Professional Experience
 
----
+- **Professor**, Gallaudet University (2020–Present)
+- **Associate Professor**, Rochester Institute of Technology (2016–2020)
+- **Assistant Professor / Instructor**, RIT (2010–2016)
 
-## 🔬 Research & Publications
+## Certifications
 
-My research focuses on accessibility, assistive technology, and inclusive computing. I've published extensively in peer-reviewed conferences and journals, exploring how technology can better serve diverse communities, particularly deaf and hard-of-hearing individuals.
+- **CISSP** — Certified Information Systems Security Professional (2001)
+- **Advanced+ to Superior+ Sign Language Proficiency**
 
-### Notable Areas
-- Accessible communication technologies
-- Caption quality and real-time text
-- Educational technology for accessibility
-- Policy and legal frameworks for digital inclusion
-- Human-computer interaction for diverse abilities
+## Contact
 
----
-
-## 🎯 Mentorship & Awards
-
-I'm passionate about mentoring the next generation of researchers and technologists. I've successfully advised multiple **NSF Graduate Research Fellowship Program (GRFP)** recipients and provided guidance to many exceptional students pursuing advanced degrees in computing and accessibility.
-
----
-
-## 🤝 Professional Service
-
-I actively contribute to the academic and professional community through:
-- **Conference Program Committees** – Reviewing and shaping research in accessibility and HCI
-- **Editorial Boards** – Guiding scholarly publications
-- **Grant Review Panels** – Evaluating research proposals for NSF and other agencies
-- **University Governance** – Faculty leadership and institutional development
-- **Community Engagement** – Bridging academia and practice
-
----
-
-## 📫 Connect With Me
-
-I'm always interested in collaboration opportunities, research partnerships, and discussions about accessibility, technology, and inclusive design.
-
-- 🏛️ **Institution**: Gallaudet University, Science, Technology, Accessibility, Mathematics and Public Health
-- 💼 **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/in/rajakushalnagar/)
-- 📧 **Email**: [Contact through Gallaudet](https://www.gallaudet.edu/)
-- 🌐 **Research**: [Google Scholar](https://scholar.google.com/citations?user=2fs6tyAAAAAJ&hl=en) | [ORCID](https://orcid.org/0000-0002-0493-413X)
-
----
-
-## 💡 Philosophy
-
-Technology should be **accessible by design, not as an afterthought**. My work strives to ensure that innovation serves everyone, creating systems that recognize and celebrate human diversity.
-
----
-
-*"The power of the Web is in its universality. Access by everyone regardless of disability is an essential aspect."* – Tim Berners-Lee
-
+- [Google Scholar](https://scholar.google.com/citations?user=g7ci9WUAAAAJ&hl=en)
+- [Gallaudet University Faculty Page](https://raja-kushalnagar-gallaudet.github.io/)
+- [GitHub](https://github.com/raja-kushalnagar-gallaudet)
